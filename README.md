@@ -1,3 +1,9 @@
+I built this extension using the Plasmo framework. When on tinder.com, the extension provides a side panel with a button to start autoswiping. 
+
+Once this button is clicked, the extension will start autoswiping with 70 percent of swipes to the right and 30 percent to the left. 
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
 ## Getting Started
